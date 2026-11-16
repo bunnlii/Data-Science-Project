@@ -1,11 +1,12 @@
 # Data-Science-Project
 
-###Dataset: https://www.kaggle.com/datasets/pratyushpuri/grocery-store-sales-dataset-in-2025-1900-record
+### Dataset: https://www.kaggle.com/datasets/pratyushpuri/grocery-store-sales-dataset-in-2025-1900-record
 
-####Project Objective:
+#### Project Objective:
 
 
-###Dataset Description: This comprehensive synthetic dataset contains 1,980 records from a 
+### Dataset Description:
+This comprehensive synthetic dataset contains 1,980 records from a 
 multi-location grocery store chain, capturing detailed transaction data across various store 
 locations, product categories, customer interactions, and promotional activities. The 
 dataset spans approximately 2 years of sales data (2023-2025) and provides insights into 
@@ -16,11 +17,11 @@ Total Columns : 11 columns
 (Customer_id, store_name, transaction_date, aisle, product_name, quantity, unit_price, 
 total_amount, discount_amount, final_amount)
 
-###Research Question:
+### Research Question:
 
 Do grocery stores differ significantly in their prices for the same branded products? Are some grocery stores consistently more expensive than others across different product categories? Does the price difference between grocery stores vary by product category?
 
-###Planned Analysis
+### Planned Analysis
 
 1. Name and keep note of each grocery stores
 2. Make a category for grocery items, make sure each item such as Apple exists for 
