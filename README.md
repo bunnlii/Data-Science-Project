@@ -2,7 +2,7 @@
 
 ### Dataset: https://www.kaggle.com/datasets/pratyushpuri/grocery-store-sales-dataset-in-2025-1900-record
 
-#### Project Objective:
+## Project Objective:
 
 
 ### Dataset Description:
